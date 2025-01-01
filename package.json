@@ -1,0 +1,16 @@
+{
+  "name": "hrs-test-task",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "jsonToObject.js",
+  "scripts": {
+    "test": "vitest",
+    "start": "node jsonToObject.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vitest": "^2.1.8"
+  }
+}
